@@ -14,10 +14,9 @@ vbl bl gnd dc 5
 vblb blb gnd dc 5
 vwl wl gnd dc 5
 vq q gnd dc 5
-*vqb qb gnd dc 0
 
 *Analysis
-.dc vq 0 5 0.1
+.dc vq 0 5 0.1 
 .control
 run
 plot v(qb) vs v(q) v(q) vs v(qb) v(q)
