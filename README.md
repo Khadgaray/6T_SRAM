@@ -15,7 +15,7 @@
 
 ### 2.1 6T SRAM Cell
 
-<p align="center"> <img align="left" width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_block.png"/> <img width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM.png"/> </p>
+<p align="center"> <img align="left" width="350" hight="350" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_block.png"/> <img width="500" hight="500" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM.png"/> </p>
 
 ##### <p align="center"> Fig 2.2 (a) 6T SRAM Block Diagram (b) 6T SRAM circuit </p>
 ---
