@@ -18,4 +18,5 @@
 
 <br>
 
+
 - 6T SRAM consist of two *Access Transistors* (M3 and M4) and *two Inverters* connected back to back with eachother 
