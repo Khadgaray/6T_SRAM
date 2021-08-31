@@ -2,6 +2,7 @@
 ## Contents
 1. [Project Details](#1-Project-Details)
 2. [Introduction](#1-Introduction)
+    - [2.1 6T SRAM Cell](#21-6T-SRAM-Cell)
 ## 1. Project Details
 - Tools : Ngspice, Sue2 | Technology Node : 0.5um SCMOS | Supply Voltage : 5v
 ## 2. Introduction
@@ -20,4 +21,4 @@
 ##### <p align="center"> Fig 2.2 (a) 6T SRAM Block Diagram (b) 6T SRAM circuit </p>
 ---
 
-- 6T SRAM consist of two *Access Transistors* (M3 and M4) and *two Inverters* connected back to back with eachother  
+- <p align="justify"> 6T SRAM consist of two *Access Transistors* (M3 and M4) and *two Inverters* connected back to back with eachother. 6T SRAM is used to store 1 bit data. The two inverters hold the 1 bit data as long as power is 'ON'. The gate of Access Transistors are then connected to Wordline to perform Read and Write operations. The Bitline(BL) and Bitline Bar (BLB) are used as output and Input repectively when Read and Write operations are done to access the memory, if the BL is Logic 0 then BLB is equal to logic 1. The value is  read or written through BL and BLB. </p>
