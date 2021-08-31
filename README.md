@@ -4,4 +4,4 @@
 ## 1. Project Details
 - Tools : Ngspice, Sue2 | Technology Node : 0.5um SCMOS | Supply Voltage : 5v
 ## 2. Introduction
-<img align="right" width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_Architecture.png" >
+<img align="center" width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_Architecture.png" >
