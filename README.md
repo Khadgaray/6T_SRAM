@@ -4,6 +4,6 @@
 ## 1. Project Details
 - Tools : Ngspice, Sue2 | Technology Node : 0.5um SCMOS | Supply Voltage : 5v
 ## 2. Introduction
-![6T SRAM ARRAY](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_Architecture.png =100x20)
+![](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_Architecture.png =100x20)
 
 A Static Random-Access Memory (SRAM) is a static device which stores 1-bit of data,
