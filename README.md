@@ -1,5 +1,5 @@
-# <p align="center"> Understanding the Standard 6T SRAM Cell Design </p>
----
+--- # <p align="center"> Understanding the Standard 6T SRAM Cell Design </p>
+
 ## Contents
 1. [Project Details](#1-Project-Details)
 ## 1. Project Details
