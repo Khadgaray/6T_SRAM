@@ -6,7 +6,7 @@
 - Tools : Ngspice, Sue2 | Technology Node : 0.5um SCMOS | Supply Voltage : 5v
 ## 2. Introduction
 <p align="center"><img width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_Architecture.png" /></p> 
-<p align="center"> Fig 2.1 SRAM Architecture </p>
+<p align="left"> Fig 2.1 SRAM Architecture </p>
 
 ---
 
