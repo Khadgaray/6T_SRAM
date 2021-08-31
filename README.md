@@ -30,4 +30,5 @@
 
 ---
 
+
 <img align="right" width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/write.png"/>
