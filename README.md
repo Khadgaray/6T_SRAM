@@ -16,6 +16,8 @@
 ### 2.1 6T SRAM Cell
 <p><img align="left" width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM_block.png" /> <img align="right" width="500" hight="500" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/6T_SRAM.png" /></p>
 
-<p></p>
+##### <p align="center"> Fig 2.1 SRAM Architecture </p>
+
+---
 
 6T SRAM consist of two *Access Transistors* (M3 and M4) and *two Inverters* connected back to back with eachother 
