@@ -25,5 +25,5 @@
 ### 2.2 SRAM Operation
 ---
  
-![dsfsd](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png)![dsad](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/write.png)
+![dsfsd](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png) ![dsad](https://github.com/Khadgaray/6T_SRAM/blob/main/Images/write.png)
 
