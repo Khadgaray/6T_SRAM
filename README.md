@@ -24,3 +24,5 @@
 
 ### 2.2 SRAM Operation
 ---
+
+<p align="center"> <img align="left" width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png"/> <img width="400" hight="400" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/write.png"/> </p>
