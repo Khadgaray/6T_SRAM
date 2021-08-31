@@ -11,5 +11,6 @@
 
 ---
 
-- A Static Random-Access Memory (SRAM) is a static memory device which stores 1-bit of data till power is supplied. SRAM is used to Read or Write data in a Bitcell which stores only 1-bit data and consume less power as compared to DRAMs. Since SRAM doesn't need refreshing the memory to maintain it's state, it is used in cache memory. The SRAM Architecture consist of Precharge circuitry, Bitcell array, Row decorder, column decorder, Sense Amplifier, Word line driver and Write driver. Different circuits in this SRAM Architecture are explained below.
+- <p align="justify"> A Static Random-Access Memory (SRAM) is a static memory device which stores 1-bit of data till power is supplied. SRAM is used to Read or Write data in a Bitcell which stores only 1-bit data and consume less power as compared to DRAMs. Since SRAM doesn't need refreshing the memory to maintain it's state, it is used in cache memory. The SRAM Architecture consist of Precharge circuitry, Bitcell array, Row decorder, column decorder, Sense Amplifier, Word line driver and Write driver. Different circuits in this SRAM Architecture are explained below.</p>
+
 ### 2.1 6T SRAM Cell
