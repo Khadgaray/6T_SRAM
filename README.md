@@ -25,8 +25,8 @@
 ### 2.2 SRAM Operation
 ---
  
-<p align="left"> wesesfdsf fdsfsdgdg <img align="right" width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png"/> </p>
+<p align="left"> wesesfdsf fdsfsdgdg <img align="right" width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png"/> </p><br>
 
----
+
 
 <p align="left"> wesesfdsf fdsfsdgdg <img align="right" width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/write.png"/> </p>
