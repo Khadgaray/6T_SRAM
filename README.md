@@ -25,7 +25,7 @@
 ### 2.2 SRAM Operation
 ---
 - <p align="justify">In SRAM there are only to operations Reading and Writing. The data can be read or written in the memory through Bitline and Bitline Bar. Below the Read and Write operations are explained further in details.</p>
-<br>
+
 <img align="right" width="500" hight="550" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png"/>
 
 - #### Read Operation: 
