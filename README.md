@@ -24,8 +24,9 @@
 
 ### 2.2 SRAM Operation
 ---
-<p>In SRAM there are only to operations Reading and Writing. The data can be read or written in the memory through Bitline and Bitline Bar. Below the Read and Write operations are explained further in details. </p>
+- <p align="justify">In SRAM there are only to operations Reading and Writing. The data can be read or written in the memory through Bitline and Bitline Bar. Below the Read and Write operations are explained further in details.</p>
 <br>
 <img align="right" width="600" hight="600" src="https://github.com/Khadgaray/6T_SRAM/blob/main/Images/READ.png"/>
 
-#### Read Operation: 
+- #### Read Operation: 
+- 6T SRAM consist of two *Access Transistors* (M3 and M4) and *two Inverters* connected back to back with eachother. 6T SRAM is used to store 1 bit data. The two inverters hold the 1 bit data as long as power is 'ON'. The gate of Access Transistors are then connected to Wordline to perform Read and Write operations. The Bitline(BL) and Bitline Bar (BLB) are used as output and Input repectively when Read and Write operations are done to access the memory, if the BL is Logic 0 then BLB is equal to logic 1. The value is  read or written through BL and BLB.
